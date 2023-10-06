@@ -1,0 +1,22 @@
+{
+  "short_name": "Five Years",
+  "name": "Five years of -99 design studio",
+  "icons": [
+    {
+      "src": "/favicon/minus99-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/minus99-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000"
+}
